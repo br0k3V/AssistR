@@ -1,6 +1,2 @@
-![image](https://github.com/user-attachments/assets/4a42d508-a1c4-4e83-8c23-22599f03ab86)
-
-
-
-
+![image](https://github.com/user-attachments/assets/65ee1519-b368-4149-9319-5f8b4847c3ed)
 Remake of the VALORANT extension launcher, Assist.
