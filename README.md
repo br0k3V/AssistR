@@ -6,4 +6,4 @@
 
 ## Why make a remake?
 Why not? Assist's custom Valnet library is obfuscated, meaning you can't add new agents if the software is outdated!
-Assist Remake (in short, Assistr) solves this problem by making everything truly open source!
+Assist Remake (in short, Assistr) solves this problem by making everything truly open source! Feel free to contribute to this repo as much as you wish :D
