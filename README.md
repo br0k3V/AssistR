@@ -2,4 +2,8 @@
   <img src="https://github.com/user-attachments/assets/65ee1519-b368-4149-9319-5f8b4847c3ed" width='450'>
   <br>
 </h1>
-Remake of the VALORANT extension launcher, Assist.
+<h3 align="center">Remake of the VALORANT extension launcher, Assist.</h3>
+
+## Why make a remake?
+Why not? Assist's custom Valnet library is obfuscated, meaning you can't add new agents if the software is outdated!
+Assist Remake (in short, Assistr) solves this problem by making everything truly open source!
