@@ -1,12 +1,203 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\viewmodels\\windows\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\viewmodels\\windows\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\assets\\v_logomark_red.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\assets\\v_logomark_red.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\viewmodels\\pages\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\viewmodels\\pages\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\assistr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\assistr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\viewmodels\\pages\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\viewmodels\\pages\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|c:\\users\\br0ke\\documents\\github\\assistr\\assistr\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF349DA2-D8FE-4985-8B60-A05C27C02CFD}|Assistr\\Assistr.csproj|solutionrelative:assistr\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "V_Logomark_Red.png",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Assets\\V_Logomark_Red.png",
+              "RelativeDocumentMoniker": "Assistr\\Assets\\V_Logomark_Red.png",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Assets\\V_Logomark_Red.png",
+              "RelativeToolTip": "Assistr\\Assets\\V_Logomark_Red.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-12T09:49:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Assistr\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Assistr\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:36:49.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Views\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assistr\\Views\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Views\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "Assistr\\Views\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T09:35:17.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "Assistr\\Views\\Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeToolTip": "Assistr\\Views\\Pages\\DashboardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T09:35:14.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assistr",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Assistr.csproj",
+              "RelativeDocumentMoniker": "Assistr\\Assistr.csproj",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Assistr.csproj",
+              "RelativeToolTip": "Assistr\\Assistr.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T08:49:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Assistr\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "RelativeToolTip": "Assistr\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:49:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "Assistr\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "RelativeToolTip": "Assistr\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:48:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Models\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Assistr\\Models\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Models\\AppConfig.cs",
+              "RelativeToolTip": "Assistr\\Models\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:48:24.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\App.xaml",
+              "RelativeDocumentMoniker": "Assistr\\App.xaml",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\App.xaml",
+              "RelativeToolTip": "Assistr\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T08:47:52.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assistr\\Views\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assistr\\Views\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:36:37.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\app.manifest",
+              "RelativeDocumentMoniker": "Assistr\\app.manifest",
+              "ToolTip": "C:\\Users\\br0kE\\Documents\\GitHub\\AssistR\\Assistr\\app.manifest",
+              "RelativeToolTip": "Assistr\\app.manifest",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-02-12T08:47:46.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

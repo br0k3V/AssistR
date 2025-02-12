@@ -24,7 +24,7 @@ namespace Assistr.ViewModels.Pages
         private void InitializeViewModel()
         {
             CurrentTheme = ApplicationThemeManager.GetAppTheme();
-            AppVersion = $"UiDesktopApp1 - {GetAssemblyVersion()}";
+            AppVersion = $"Version - Assistr {GetAssemblyVersion()}";
 
             _isInitialized = true;
         }

@@ -6,7 +6,7 @@ namespace Assistr.ViewModels.Windows
     public partial class MainWindowViewModel : ObservableObject
     {
         [ObservableProperty]
-        private string _applicationTitle = "WPF UI - Assistr";
+        private string _applicationTitle = "Assistr";
 
         [ObservableProperty]
         private ObservableCollection<object> _menuItems = new()
