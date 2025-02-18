@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <PackageReference Include="DiscordRichPresence" Version="1.2.1.24" />
+    <PackageReference Include="Json.Net" Version="1.0.33" />
     <PackageReference Include="WPF-UI" Version="3.0.4" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2 " />

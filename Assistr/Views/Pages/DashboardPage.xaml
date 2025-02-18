@@ -15,7 +15,25 @@
     ui:Design.Foreground="{DynamicResource TextFillColorPrimaryBrush}"
     Foreground="{DynamicResource TextFillColorPrimaryBrush}"
     mc:Ignorable="d">
-    <Grid Margin="0,0,590,0">
-        <ui:Image HorizontalAlignment="Center" Margin="0,112,0,0" VerticalAlignment="Top"/>
+    <Grid>
+        <ui:ClientAreaBorder BorderBrush="Red" BorderThickness="1" Margin="0,0,723,110" CornerRadius="8">
+            <ui:ClientAreaBorder.Effect>
+                <DropShadowEffect Color="Red"/>
+            </ui:ClientAreaBorder.Effect>
+        </ui:ClientAreaBorder>
+        <StackPanel Margin="-27,121,696,110">
+            <ui:Image Source="/Assets/V_Logomark_Red.png" Margin="0,-50,0,0"/>
+            <ui:TextBlock FontSize="14" Height="24" HorizontalAlignment="Center" Text="Launch VALORANT" Margin="0,0,0,20"/>
+            <ui:Button x:Name="ProjectA_Launch" Height="37" Width="88" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" Content="Go" FontSize="24" VerticalAlignment="Top" Margin="0,50,0,0" Click="ProjectA_Launch_Click">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </ui:Button>
+        </StackPanel>
     </Grid>
 </Page>

@@ -61,3 +61,4 @@ C:\Users\br0kE\Documents\GitHub\AssistR\Assistr\obj\Debug\net8.0-windows\refint\
 C:\Users\br0kE\Documents\GitHub\AssistR\Assistr\obj\Debug\net8.0-windows\Assistr.pdb
 C:\Users\br0kE\Documents\GitHub\AssistR\Assistr\obj\Debug\net8.0-windows\Assistr.genruntimeconfig.cache
 C:\Users\br0kE\Documents\GitHub\AssistR\Assistr\obj\Debug\net8.0-windows\ref\Assistr.dll
+C:\Users\br0kE\Documents\GitHub\AssistR\Assistr\bin\Debug\net8.0-windows\Json.Net.dll
